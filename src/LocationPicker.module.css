@@ -1,0 +1,36 @@
+.wrapper {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.heading {
+  font-size: 32px;
+  margin-bottom: 30px;
+}
+
+.selectRow {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-bottom: 25px;
+}
+
+.dropdown {
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 4px;
+}
+
+.output {
+  font-size: 20px;
+  margin-top: 25px;
+}
+
+.cityName {
+  font-weight: 700;
+  font-size: 22px;
+}
+
+.details {
+  color: #6c757d;
+}
