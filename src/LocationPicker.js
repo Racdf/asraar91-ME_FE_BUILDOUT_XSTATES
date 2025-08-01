@@ -84,7 +84,7 @@ export default function LocationPicker(){
 
       {city && (
         <div className={styles.output}>
-          Selected:
+          You selected
           <span className={styles.cityName}> {city}</span>,
           <span className={styles.details}> {state}, {country}</span>
         </div>
